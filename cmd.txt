@@ -1,0 +1,1 @@
+cd ~/Codes/verilog/TLC && iverilog -o sim.out tlc.v test_tlc.v && vvp sim.out && gtkwave dump_tlc.vcd

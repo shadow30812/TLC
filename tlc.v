@@ -2,7 +2,7 @@
  * Moore FSM based traffic light controller
  */
 
-module traffic_light #(
+module tlc #(
     parameter T_RED = 7'd100,
     parameter T_YELLOW = 4'd15,
     parameter T_GREEN = 6'd60,

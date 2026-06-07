@@ -1,11 +1,11 @@
 `timescale 1ns / 1ps
 
 
-module tb_tl;
+module tb_tlc;
   reg clk = 0, rst_n = 0, ped_btn = 0;
   wire red, yellow, green, ped_cross;
 
-  traffic_light #(
+  tlc #(
       .T_RED(10),
       .T_YELLOW(2),
       .T_GREEN(6),
@@ -39,8 +39,8 @@ module tb_tl;
   endtask
 
   initial begin
-    $dumpfile("dump_traffic_light.vcd");
-    $dumpvars(0, tb_tl);
+    $dumpfile("dump_tlc.vcd");
+    $dumpvars(0, tb_tlc);
 
     // Verify initialization reset
     #15 rst_n = 1;
