@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../home/shadow30812/Vivado/2025.2/data/rsb/busdef" \
+"../../../../TLC.srcs/sources_1/imports/TLC/tlc.v" \
+"../../../../TLC.srcs/sources_1/imports/TLC/test_tlc.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

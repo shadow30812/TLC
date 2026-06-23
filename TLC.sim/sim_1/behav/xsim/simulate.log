@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+[PASS]                                                             Initial Reset to RED at time 15000
+[PASS]                                             Simultaneous edge routes to PED_WALK at time 116000
+[PASS]                                               Transitions from PED_WALK to GREEN at time 156000
+[PASS]                                              Transitions to RED despite spamming at time 295000
+[PASS]                                               Before Async Reset (State = GREEN) at time 415000
+[PASS]                                                Immediate Async Reset Snap to RED at time 416000
+[PASS]                                                      Fault State recovery to RED at time 456000
+All tests completed
+$finish called at time : 500 ns : File "/media/shadow30812/Windows-SSD/Well/Projects/TLC/TLC.srcs/sources_1/imports/TLC/test_tlc.v" Line 77
+INFO: xsimkernel Simulation Memory Usage: 281132 KB (Peak: 338404 KB), Simulation CPU Usage: 1520 ms
