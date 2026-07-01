@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1782935055">
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="tlc_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="tlc_routed.rqs"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="RDI-RDI" Name="tlc.vdi"/>
+  <File Type="BG-DRC" Name="tlc.drc"/>
+  <File Type="BG-BGN" Name="tlc.bgn"/>
+  <File Type="BITSTR-SYSDEF" Name="tlc.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="tlc.ltx"/>
+  <File Type="PL-LTX-FILE" Name="tlc_pld.ltx"/>
+  <File Type="BOOT-LTX-FILE" Name="tlc_boot.ltx"/>
+  <File Type="LTX-FILE" Name="tlc.ltx"/>
+  <File Type="PL-BIF-FILE" Name="tlc_pld.bif"/>
+  <File Type="BOOT-BIF-FILE" Name="tlc_boot.bif"/>
+  <File Type="BIF-FILE" Name="tlc.bif"/>
+  <File Type="MMI-FILE" Name="tlc.mmi"/>
+  <File Type="RBD_FILE" Name="tlc.rbd"/>
+  <File Type="NPI_FILE" Name="tlc.npi"/>
+  <File Type="PL_UNMASK_RCDO_FILE" Name="tlc_pld_unmask.rcdo"/>
+  <File Type="PL_UNMASK_MARKER_RCDO_FILE" Name="tlc_pld_unmask_markers.rcdo"/>
+  <File Type="PL_MASK_RCDO_FILE" Name="tlc_pld_mask.rcdo"/>
+  <File Type="PL_MARKER_RCDO_FILE" Name="tlc_pld_markers.rcdo"/>
+  <File Type="PL-CLEAR-RCDO-FILE" Name="tlc_pld_clear.rcdo"/>
+  <File Type="PL-RCDO-FILE" Name="tlc_pld.rcdo"/>
+  <File Type="PL_UNMASK_RNPI_FILE" Name="tlc_pld_unmask.rnpi"/>
+  <File Type="PL_SHUTDOWN_RNPI_FILE" Name="tlc_pld_shutdown.rnpi"/>
+  <File Type="PL_MASK_RNPI_FILE" Name="tlc_pld_mask.rnpi"/>
+  <File Type="PL_MARKER_RNPI_FILE" Name="tlc_pld_markers.rnpi"/>
+  <File Type="PL_RNPI_FILE" Name="tlc_pld.rnpi"/>
+  <File Type="BOOT_MARKER_RNPI_FILE" Name="tlc_boot_markers.rnpi"/>
+  <File Type="BOOT_RNPI_FILE" Name="tlc_boot.rnpi"/>
+  <File Type="MARKER-RCDO-FILE" Name="tlc_markers.rcdo"/>
+  <File Type="MARKER-RNPI-FILE" Name="tlc_markers.rnpi"/>
+  <File Type="RCDO-FILE" Name="tlc.rcdo"/>
+  <File Type="RNPI_FILE" Name="tlc.rnpi"/>
+  <File Type="CFI_FILE" Name="tlc.cfi"/>
+  <File Type="RCFI_FILE" Name="tlc.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="tlc_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="tlc_boot.pdi"/>
+  <File Type="PDI-FILE" Name="tlc.pdi"/>
+  <File Type="BITSTR-MMI" Name="tlc.mmi"/>
+  <File Type="BITSTR-BMM" Name="tlc_bd.bmm"/>
+  <File Type="BITSTR-NKY" Name="tlc.nky"/>
+  <File Type="BITSTR-RBT" Name="tlc.rbt"/>
+  <File Type="BITSTR-MSK" Name="tlc.msk"/>
+  <File Type="BG-BIN" Name="tlc.bin"/>
+  <File Type="BG-BIT" Name="tlc.bit"/>
+  <File Type="NOC_SOLUTION_FILE" Name="tlc.ncr"/>
+  <File Type="NOC_TRAFFIC_SPEC_FILE" Name="tlc.nts"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="tb_tlc_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="tb_tlc_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="tb_tlc_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="tb_tlc_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="tb_tlc_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="tb_tlc_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="tlc_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="tlc_postroute_physopt.dcp"/>
+  <File Type="ROUTE-RQS-PB" Name="tlc_rqs_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="tlc_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="tlc_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW" Name="tlc_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="tlc_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-SIMILARITY" Name="tlc_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="tlc_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-TIMING-PB" Name="tlc_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="tlc_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="tlc_route_status.pb"/>
+  <File Type="ROUTE-STATUS" Name="tlc_route_status.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="tlc_power_routed.rpx"/>
+  <File Type="ROUTE-PWR-SUM" Name="tlc_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="tlc_power_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="tlc_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="tlc_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="tlc_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="tlc_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="tlc_drc_routed.pb"/>
+  <File Type="ROUTE-DRC" Name="tlc_drc_routed.rpt"/>
+  <File Type="ROUTE-UTIL-PB" Name="tlc_utilization_routed.pb"/>
+  <File Type="ROUTE-UTIL" Name="tlc_utilization_routed.rpt"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="tlc_routed_bb.dcp"/>
+  <File Type="ROUTE-DCP" Name="tlc_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="tlc_routed_error.dcp"/>
+  <File Type="PHYSOPT-TIMING" Name="tlc_timing_summary_physopted.rpt"/>
+  <File Type="PHYSOPT-DRC" Name="tlc_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="tlc_physopt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="tlc_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="tlc_postplace_pwropt.dcp"/>
+  <File Type="PLACE-RQA-PB" Name="tlc_rqa_placed.pb"/>
+  <File Type="PLACE-TIMING" Name="tlc_timing_summary_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="tlc_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="tlc_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-CTRL" Name="tlc_control_sets_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="tlc_utilization_placed.pb"/>
+  <File Type="PLACE-UTIL" Name="tlc_utilization_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="tlc_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-IO" Name="tlc_io_placed.rpt"/>
+  <File Type="PLACE-DCP" Name="tlc_placed.dcp"/>
+  <File Type="PWROPT-TIMING" Name="tlc_timing_summary_pwropted.rpt"/>
+  <File Type="PWROPT-DRC" Name="tlc_drc_pwropted.rpt"/>
+  <File Type="PWROPT-DCP" Name="tlc_pwropt.dcp"/>
+  <File Type="OPT-RQA-PB" Name="tlc_rqa_opted.pb"/>
+  <File Type="OPT-TIMING" Name="tlc_timing_summary_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="tlc.hwdef"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="tlc_methodology_drc_opted.rpt"/>
+  <File Type="OPT-UTIL-PB" Name="tlc_utilization_opted.pb"/>
+  <File Type="OPT-UTIL" Name="tlc_utilization_opted.rpt"/>
+  <File Type="OPT-DRC" Name="tlc_drc_opted.rpt"/>
+  <File Type="OPT-DCP" Name="tlc_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="tlc_timing_summary_init.rpt"/>
+  <File Type="REPORTS-TCL" Name="tlc_reports.tcl"/>
+  <File Type="PA-TCL" Name="tlc.tcl"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/TLC/tlc.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/tlc.v"/>
+        <Attr Name="ImportTime" Val="1781108084"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="tlc"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/timing.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/tlc.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2025"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
